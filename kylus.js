@@ -2,14 +2,14 @@ var mineflayer = require("mineflayer");//Projeye Sahip olmak için sağ üst tar
 var db = require("quick.db");
 
 var ayar = {
-  host: "Sunucu_ip", //Sunucu IPnizi giriniz.
-  port: 26487, //Sunucu portunuzu giriniz.
-  username: "Kylus", //Sunucuya giriş yapacak bot isminizi girin.
+  host: "zsasasa.aternos.me", //Sunucu IPnizi giriniz.
+  port: 12913, //Sunucu portunuzu giriniz.
+  username: "oumagaaad", //Sunucuya giriş yapacak bot isminizi girin.
   version: false, //Burayı değiştirmeyin.
 };
 
 var kayit = {
-  authme: "var", //Sunucunuzda login plugini | varsa > evet | yoksa > yok
+  authme: "yok", //Sunucunuzda login plugini | varsa > evet | yoksa > yok
   sifre: "ADMIN",
 };
 
